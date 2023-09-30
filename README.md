@@ -1,5 +1,5 @@
 # MaxEntOrg
-Free source whitepaper on systems thinking with key concepts like the Principle of Maximum Entropy (the "fourth law"). Please contribute!
+Free source whitepaper on systems thinking with key concepts like the Principle of Maximum Entropy (the "fourth law"). Please contribute! If you don't immediately find it completely unbelievably pretentious then you might have something good to add! :-)
 
 Just a little experiment to come up with a down-to-earth but highly effective systems thinking model based in natural sciences.
 
